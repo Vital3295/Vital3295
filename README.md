@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Привет 👋, я Vital</h1>
+<h1>Hi 👋, I'm a1z</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=C%23+developer;Python+enthusiast;Rust+learner" alt="Typing SVG" />
 
@@ -8,19 +8,19 @@
 
 ---
 
-## 🚀 Обо мне
+## 🚀 About me
 
-Студент и разработчик, который пишет код на **трёх** языках и не может выбрать любимый. Люблю чистый код, автоматизацию рутины и проекты, которые реально работают.
+Student and developer who writes code in **three** languages and can't pick a favorite. I love clean code, automating the boring stuff, and projects that actually work.
 
-## 🛠️ Технологии
+## 🛠️ Technologies
 
-| Язык | О себе | Уровень |
+| Language | About me | Level |
 |:---:|:---|:---:|
-| **C#** | ООП, .NET, десктоп и бэкенд | ⭐⭐⭐⭐ |
-| **Python** | автоматизация, скрипты, анализ | ⭐⭐⭐⭐ |
-| **Rust** | безопасность, производительность, системный код | ⭐⭐⭐ |
+| **C#** | OOP, .NET, desktop & backend | ⭐⭐⭐⭐ |
+| **Python** | automation, scripts, data analysis | ⭐⭐⭐⭐ |
+| **Rust** | safety, performance, systems programming | ⭐⭐⭐ |
 
-### 💻 Стек
+### 💻 Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white&style=for-the-badge" alt="C#" />
@@ -31,29 +31,29 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VS Code" />
 </p>
 
-## 📊 GitHub статистика
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vital3295&show_icons=true&theme=tokyonight&hide_border=true" alt="Статистика" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vital3295&layout=compact&theme=tokyonight&hide_border=true" alt="Языки" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=a1z-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1z-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
 </p>
 
-## 🎯 Что я делаю
+## 🎯 What I do
 
-- 🎮 Игры и интерактивные проекты
-- 🤖 Автоматизация задач на Python
-- 🦀 Эксперименты с системным кодом на Rust
-- 🧩 Учусь новому каждый день
+- 🎮 Games and interactive projects
+- 🤖 Automation with Python
+- 🦀 Systems experiments in Rust
+- 🧩 Learning something new every day
 
-## 📈 Активность
+## 📈 Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vital3295&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a1z-dev&theme=tokyonight&hide_border=true)
 
 ---
 
 <p align="center">
-  <a href="https://github.com/Vital3295"><img src="https://img.shields.io/badge/GitHub-Vital3295-181717?logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/a1z-dev"><img src="https://img.shields.io/badge/GitHub-a1z--dev-181717?logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Languages-C%23%20%7C%20Python%20%7C%20Rust-8B5CF6?style=for-the-badge" alt="Languages" />
 </p>
 
-<p align="center">Сделано с ❤️ и ☕</p>
+<p align="center">Made with ❤️ and ☕</p>
